@@ -2,7 +2,7 @@
 *Pengalaman belajar Coding di Bangkit Academy*
 --
 
-**14 September 2022**
+**14 Februari 2022**
 --
 Opening dan Technical Briefing terkait Bangkit Academy. (100%)
 <br> Belajar Materi Basic Programming (100%)
@@ -13,7 +13,7 @@ Opening dan Technical Briefing terkait Bangkit Academy. (100%)
 
 * Materi basic programming, sangat mudah dipahami namun membutuhkan waktu yang cukup panjang untuk memahami secara detail 
 
-**15 September 2022**
+**15 Februari 2022**
 --
 Belajar materi Software Development (100%)
 <br> Belajar materi Git dan GitHub (60%)
@@ -23,3 +23,11 @@ Belajar materi Software Development (100%)
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
+
+**16 Februari 2022**
+--
+Belajar Git dan Github lanjutan (40%)
+<br>
+* Mempelajari workflow tentang GitHub 
+<br> * Belajar tentang Repository hingga ke proses pembuatan GitHub
+<br> * Memiliki output berupa personal portfolio GitHub
