@@ -2,10 +2,10 @@
 *Pengalaman belajar Coding di Bangkit Academy*
 --
 
-14 September 2022
+**14 September 2022**
 --
 Opening dan Technical Briefing terkait Bangkit Academy. (100%)
-Belajar Materi Basic Programming (100%)
+<br> Belajar Materi Basic Programming (100%)
 
 * Mengetahui detail teknis seputar kegiatan belajar selama kurang lebih 6 bulan kedepan
 
@@ -13,12 +13,10 @@ Belajar Materi Basic Programming (100%)
 
 * Materi basic programming, sangat mudah dipahami namun membutuhkan waktu yang cukup panjang untuk memahami secara detail 
 
-15 September 2022
+**15 September 2022**
 --
-
 Belajar materi Software Development (100%)
-
-Belajar materi Git dan GitHub (60%)
+<br> Belajar materi Git dan GitHub (60%)
 
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 
