@@ -29,5 +29,7 @@ Belajar materi Software Development (100%)
 Belajar Git dan Github lanjutan (40%)
 <br>
 * Mempelajari workflow tentang GitHub 
-<br> * Belajar tentang Repository hingga ke proses pembuatan GitHub
-<br> * Memiliki output berupa personal portfolio GitHub
+
+* Belajar tentang Repository hingga ke proses pembuatan GitHub
+
+* Memiliki output berupa personal portfolio GitHub
