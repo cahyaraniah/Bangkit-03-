@@ -12,3 +12,5 @@ cahyarani adi hanifah (M2006f488 - ML-33)
 - perlu menerapkan reward & punishment > saat aku gabisa nyelesaiin apa yang udah aku set
 - perlu ga peduli ama ajakan orang lain (say no) > karena aku punya agenda sendiri
 - bangun pagi!!!
+
+**Evaluasi tanggal 21 - 25 Februari 2022:**
